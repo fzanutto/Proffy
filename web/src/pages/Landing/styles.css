@@ -3,6 +3,7 @@
     height: 100vh;
 
     display: flex;
+
     justify-content: center;
     align-items: center;
 
@@ -12,10 +13,9 @@
 
 .logo-container img{
     height: 10rem;
-
 }
 
-.hero-image{
+.hero-image {
     width: 100%;
 }
 
